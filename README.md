@@ -19,22 +19,31 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" align="center" alt="logo" height="30"width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="center" alt="logo" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"align="center" alt="logo" height="30" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"align="center" alt="logo" height="30" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"align="center" alt="logo" height="30" width="40" />
 </div>
 
+<br>
 
 
 
-
-### Redes Sociais... 
+##Redes Sociais... 
 
 <div> 
 
   <a href="https://instagram.com/alexandre.superb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-    badge&logo=instagram&logoColor=white" target="_blank"></a>
 
+ </div>
  
-  <a href = "mailto:c.alexandresouza84@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"     target="_blank"></a>
-
+ ##Contato...
+ 
+ <di>
+ 
+  <a href = "mailto:c.alexandresouza84@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the- badge&logo=gmail&logoColor=white"     target="_blank"></a>
 
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
 </div>
+
+
+
+
