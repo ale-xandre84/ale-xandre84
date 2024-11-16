@@ -7,7 +7,7 @@
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ale-xandre84&layout=compact&langs_count=7&theme=tokyonight)
 
- ##Tecnologias:
+ ##Minhas Stacks Principais:
 
 
  <div style="display: inline_block"><br>
@@ -17,29 +17,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" align="center" alt="logo" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" align="center" alt="logo" height="30"width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="center" alt="logo" height="30" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"align="center" alt="logo" height="35" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"align="center" alt="logo" height="32" width="40" />
 </div>
 
 <br>
 
 
 
-##Redes Sociais... 
 
-<div> 
 
-  <a href="https://instagram.com/alexandre.superb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-    badge&logo=instagram&logoColor=white" target="_blank"></a>
-
- </div>
- 
- ##Contato...
- 
- <di>
- 
-  <a href = "mailto:c.alexandresouza84@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the- badge&logo=gmail&logoColor=white"     target="_blank"></a>
-
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
 
 
 
