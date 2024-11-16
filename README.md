@@ -3,9 +3,11 @@
 
 
 
-![ale-xandre84 GitHub stats](https://github-readme-stats.vercel.app/api?username=ale-xandre84&show_icons=true&theme=tokyonight)
+<div style="display:inline_block"><br>
+ ![ale-xandre84 GitHub stats](https://github-readme-stats.vercel.app/api?username=ale-xandre84&show_icons=true&theme=tokyonight)
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ale-xandre84&layout=compact&langs_count=7&theme=tokyonight)
+</div>
 
 
  ##Tecnologias:
